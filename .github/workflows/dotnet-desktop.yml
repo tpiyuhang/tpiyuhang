@@ -78,11 +78,11 @@ jobs:
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
-      run: msbuild SQ.sln /t:Restore
+      run: msbuild $Env:GITHUB_WORKSPACE/SQ/SQ.sln /t:Restore
 
     # Create the app package by building and packaging the Windows Application Packaging project
     - name: Create the app package
-      run: msbuild SQ.sln
+      run: msbuild $Env:GITHUB_WORKSPACE/SQ/SQ.sln
      
 
   
