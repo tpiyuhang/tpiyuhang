@@ -1,0 +1,15 @@
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\bin\Debug\net6.0\SonarQube.exe
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\bin\Debug\net6.0\SonarQube.deps.json
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\bin\Debug\net6.0\SonarQube.runtimeconfig.json
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\bin\Debug\net6.0\SonarQube.dll
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\bin\Debug\net6.0\SonarQube.pdb
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.csproj.AssemblyReference.cache
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.AssemblyInfoInputs.cache
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.AssemblyInfo.cs
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.csproj.CoreCompileInputs.cache
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.dll
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\refint\SonarQube.dll
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.pdb
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\SonarQube.genruntimeconfig.cache
+C:\Users\ysun\source\repos\tpiyuhang\SQ\SonarQube\obj\Debug\net6.0\ref\SonarQube.dll

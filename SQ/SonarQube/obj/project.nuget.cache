@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MT/9RBtvLnozs9T+e7QenHW70jYC0w8SBb3sP3HGVF4qNpawS99qbnqjYvPo60Bex4BpvBHi5HmS3EL4xNz2w==",
+  "dgSpecHash": "Rb9IJ3Kzsu6v1eUCgcpHwJCUXZCV3K/al6Bb1cXq3hqAqdSMD1WeaVRfk4HHJvHSQr36/cUXblZwoqCCRBtuUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SQ.csproj",
+  "projectFilePath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\SonarQube.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ysun\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
     "C:\\Users\\ysun\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
