@@ -11,7 +11,41 @@
         "language": "en-US"
       },
       "results": [
-      ]
+        {
+          "ruleId": "CS1002",
+          "level": "error",
+          "message": "; expected",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/ysun/source/repos/tpiyuhang/SQ/SonarQube/Program.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 28,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "rules": {
+        "CS1002": {
+          "id": "CS1002",
+          "defaultLevel": "error",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1002)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry",
+              "NotConfigurable"
+            ]
+          }
+        }
+      }
     }
   ]
 }
