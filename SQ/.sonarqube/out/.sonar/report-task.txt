@@ -1,0 +1,5 @@
+organization=tpiyuhang
+projectKey=tpiyuhang_tpiyuhang
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.39572
+dashboardUrl=https://sonarcloud.io/dashboard?id=tpiyuhang_tpiyuhang

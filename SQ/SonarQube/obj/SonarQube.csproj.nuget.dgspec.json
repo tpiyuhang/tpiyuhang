@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SQ.csproj": {}
+    "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\SonarQube.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SQ.csproj": {
+    "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\SonarQube.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SQ.csproj",
-        "projectName": "SQ",
-        "projectPath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SQ.csproj",
+        "projectUniqueName": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\SonarQube.csproj",
+        "projectName": "SonarQube",
+        "projectPath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\SonarQube.csproj",
         "packagesPath": "C:\\Users\\ysun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\obj\\",
+        "outputPath": "C:\\Users\\ysun\\source\\repos\\tpiyuhang\\SQ\\SonarQube\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
